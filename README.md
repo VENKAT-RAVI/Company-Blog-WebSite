@@ -4,8 +4,8 @@
 A fully functioning Social Network BlogSite with Flask
 
 # Functionality:
-User Authentication and Authorization with Flask
-Accept Payments with Stripe and Flask
+• User Authentication and Authorization with Flask
+•	Accept Payments with Stripe and Flask
 
 # Technologies Used:
 •	HTML
